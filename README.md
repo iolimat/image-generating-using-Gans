@@ -19,6 +19,10 @@ The dataset consists of a collection of landscape images used for training the G
 - **Generator Network:** Develop a neural network to generate landscape images.
 - **Discriminator Network:** Construct a neural network to distinguish between real and generated images.
 - **Adversarial Training:** Train the generator and discriminator networks in an adversarial manner.
+  
+## Result
+- **See the generated_video to see the evolution of the images each epoch**.
+
 
 ## Future Work
 
